@@ -2,7 +2,7 @@
 
 Calculate the aspect ratio of an image and compute new dimensions that preserve it, entirely in the browser.
 
-**Live Demo:** https://file-converter-free.com/en/image-tools/image-aspect-ratio
+**Live Demo:** https://file-converter-free.com/en/image-tools/image-aspect-ratio-calculator-online
 
 ## How It Works
 
